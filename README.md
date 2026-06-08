@@ -1,0 +1,6 @@
+requirements
+flask
+flask-cors
+requests
+pandas
+openpyxl
